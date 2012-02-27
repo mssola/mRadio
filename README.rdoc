@@ -1,7 +1,7 @@
 = mRadio
 
 You need to have installed coffee-script in order to compile it. You can
-install it with the following command: sudo npm -g coffee-script.
+install it with the following command: sudo npm install -g coffee-script.
 After this, run the install.rb script to install the script in the Amarok
 directory. You may have a different Amarok directory, so take a look at the
 install.rb script and modify the SCRIPT_PATH constant at your own needs.
