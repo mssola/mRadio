@@ -41,6 +41,7 @@ stations = [
   new Station('Ràdio Flaixbac', 'http://flaix.stream.flumotion.com/flaix/flaixbac.mp3.m3u'),
   new Station('Catalunya Ràdio', 'http://www.catradio.cat/directes/catradio_http.m3u'),
   new Station('Catalunya Informació', 'http://www.catradio.cat/directes/catinfo_http.m3u'),
+  new Station('RAC 1', 'http://streaming3.radiocat.net:80/'),
   new Station('m80 Radio', 'http://94.75.234.135:8883')
 ]
 
